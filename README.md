@@ -1,7 +1,7 @@
 # Vocos PyTorch
 
 <p align="center">
-  <img src="Vocos.png" alt="Vocos" style="display:block; margin:auto; width:680px;" />
+  <img src="Vocos.png" alt="Vocos" style="display:block; margin:auto; width:720px;" />
 </p>
 
 PyTorch implementation of Vocos.
