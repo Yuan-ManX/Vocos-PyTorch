@@ -1,0 +1,7 @@
+numpy
+torch
+torchaudio
+scipy
+einops
+pyyaml
+encodec==0.1.1
